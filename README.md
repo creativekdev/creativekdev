@@ -11,7 +11,7 @@
 
 - A passionate Self-taught full stack developer
 - C/C++, AI expert.
-- Currently learning Web Development by Self
+- Currently working as freelancer
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
