@@ -9,7 +9,7 @@
 
 <br>
 
-- A passionate Self-taught full stack developer
+- An experienced full stack developer
 - C/C++, AI expert.
 - Currently working as freelancer
 - I’m currently open for an Intern or a new job opportunity
