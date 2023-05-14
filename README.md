@@ -10,8 +10,10 @@
 <br>
 
 - An experienced full stack developer
+- React, Angular, Vue.js are my frontend skills
+- Laravel, Django, node.js, are my backend skills
+- ChatGPT open AI expert
 - C/C++, AI expert.
-- Currently working as freelancer
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
