@@ -14,6 +14,7 @@
 - Laravel, Django, node.js, are my backend skills
 - ChatGPT open AI expert
 - C/C++, AI expert.
+- OpenCV, Tensorflow, Object detection, Object Tracking, OCR.
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
