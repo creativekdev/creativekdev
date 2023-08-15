@@ -12,6 +12,7 @@
 - An experienced full stack developer
 - React, Angular, Vue.js are my frontend skills
 - Laravel, Django, node.js, are my backend skills
+- Flutter is my mobile skill.
 - ChatGPT open AI expert
 - C/C++, AI expert.
 - OpenCV, Tensorflow, Object detection, Object Tracking, OCR.
