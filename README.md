@@ -44,15 +44,6 @@
 
 <ul>
 
-
-<li>
-<a href="https://join.skype.com/invite/G66betl5bRD0" target="_blank">
-Skype
-</a>
-</li>
-
-<br>
-
 <li>
 <a href="mailto:creativekdev@gmail.com" target="_blank">
 Email
