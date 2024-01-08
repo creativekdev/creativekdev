@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm creative and passionated developer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm creative and passionated developer and team leader </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creativekdev&label=Profile%20views&color=0e75b6&style=flat" alt="creativekdev" /> </p>
 
@@ -8,16 +8,6 @@
 
 
 <br>
-
-- An experienced full stack developer
-- React, Angular, Vue.js are my frontend skills
-- Laravel, Django, node.js, are my backend skills
-- Flutter is my mobile skill.
-- ChatGPT open AI expert
-- BlockChain
-- C/C++, AI expert.
-- OpenCV, Tensorflow, Object detection, Object Tracking, OCR.
-- I’m currently open for an Intern or a new job opportunity
 
 <br><br>
 
