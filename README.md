@@ -36,24 +36,6 @@
 -----
 
 <br>
-<br>
-
-## <b> Let's Connect..!</b>
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="mailto:creativekdev@gmail.com" target="_blank">
-Email
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
